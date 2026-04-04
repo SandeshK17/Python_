@@ -1,4 +1,4 @@
-import random
+import random  # It is a simple number guessing game.
 a = random.randint(1,100)
 guesses=1
 user_input = 0
